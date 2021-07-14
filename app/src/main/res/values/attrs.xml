@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CustomTitleBar">
+
+        <attr name="leftTextColor" format="color"/>
+        <attr name="leftDrawable" format="integer"/>
+        <attr name="leftText" format="string"/>
+        <attr name="centerText" format="string"/>
+        <attr name="centerTextColor" format="color"/>
+        <attr name="rightText" format="string"/>
+        <attr name="rightTextColor" format="color"/>
+
+    </declare-styleable>
+
+
+    <declare-styleable name="MyProgramsBottomButton">
+        <attr name="iv_left" format="reference"/>
+        <attr name="name" format="string"/>
+    </declare-styleable>
+
+
+
+
+<!--    <declare-styleable name="MyProgramsBottomButton">-->
+<!--        <attr name="iv_left" format="reference"/>-->
+<!--        <attr name="name" format="string"/>-->
+<!--    </declare-styleable>-->
+
+
+
+</resources>
